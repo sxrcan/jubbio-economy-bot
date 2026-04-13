@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@jubbio/core": "^1.3.7",
+    "dotenv": "^17.4.2"
+  }
+}
